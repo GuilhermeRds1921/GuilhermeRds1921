@@ -15,10 +15,10 @@
 </div>
 </div>
 
-<style>
+
 div.box {
 	width: 170em;
 	display: inline-block;
 }
-</style>
+
 
