@@ -7,4 +7,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermerds1921@gmail.com/)
 
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermerds1921&show_icons=true&theme=dark)
-[![Guilherme's GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRds1921&layout=compact&theme=dark))](https://github.com/GuilhermeRds1921/github-readme-stats)
+![Guilherme's GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRds1921&layout=compact&theme=dark)
