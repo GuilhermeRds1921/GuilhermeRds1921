@@ -9,5 +9,17 @@
 
 </div>
 
+<div class="box">
+
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Guilhermerds1921&show_icons=true&theme=dark"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRds1921&langs_count=8&theme=dark"/>
+
+</div>
+
+<style>
+div.box {
+	width: 170em;
+	display: inline-block;
+}
+</style>
+
