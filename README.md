@@ -16,9 +16,4 @@
 </div>
 
 
-div.box {
-	width: 170em;
-	display: inline-block;
-}
-
 
