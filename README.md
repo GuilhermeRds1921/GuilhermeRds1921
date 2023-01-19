@@ -18,7 +18,7 @@
 
 <style>
 div.box {
-	align="center";
+	align: "center";
 	width: 170em;
 	display: inline-block;
 }
