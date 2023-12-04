@@ -9,11 +9,8 @@
 
 <div class="box">
 
-<img height="170em" src="https://github-readme-status-bice.vercel.app/api?username=Guilhermerds1921&show_icons=true&theme=dark"/>
-<img height="170em" src="https://github-readme-status-bice.vercel.app/api/top-langs/?username=GuilhermeRds1921&langs_count=8&theme=dark"/>
+<img height="170em" src="https://readme-stats-guilhermerds1921.vercel.app/api?username=Guilhermerds1921&show_icons=true&theme=dark"/>
+<img height="170em" src="https://readme-stats-guilhermerds1921.vercel.app/api/top-langs/?username=GuilhermeRds1921&langs_count=8&theme=dark"/>
 
 </div>
 </div>
-
-
-
