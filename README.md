@@ -1,7 +1,3 @@
-
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80">
-</br>
-
 [![Top Langs](https://github-readme-status-bice.vercel.app/api/top-langs/?username=GuilhermeRds1921&langs_count=14&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div class="box">
