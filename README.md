@@ -10,7 +10,7 @@ Atualmente, participo do **Grupo de Biometria Neonatal da UTFPR-PB** e desenvolv
 
 ## 🌐 Portfólio
 
-Criei um portfólio para organizar melhor minha trajetória, projetos, textos, imagens, vídeos, estudos e experiências acadêmicas.
+Criei um portfólio para organizar melhor minha trajetória, projetos, estudos e experiências acadêmicas.
 (**Em Desenvolvimento**)
 
 [![Acessar Portfólio](https://img.shields.io/badge/Acessar%20Portf%C3%B3lio-Guilherme%20Rodrigues-00AEEF?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://guilhermerds1921.github.io/)
