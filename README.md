@@ -58,27 +58,6 @@ Criei um portfólio para organizar melhor minha trajetória, projetos, textos, i
 
 ---
 
-## 📌 Projetos em destaque
-
-### Biometria Neonatal / TCC
-
-Pesquisa envolvendo **machine learning, visão computacional, processamento de imagens e plataformas embarcadas**. O foco do meu TCC é avaliar a execução de modelos de redes neurais em dispositivos como Raspberry Pi, analisando desempenho, limitações e viabilidade de aplicação prática.
-
-### Pato a Jato
-
-Participação em equipe de competição de eficiência energética. Atuei com **telemetria do protótipo a combustão**, desenvolvimento e validação de **placas de circuito impresso** e apoio no desenvolvimento com **ESP32** para o primeiro protótipo elétrico da equipe.
-
-### Robotnik
-
-Projeto de robótica e divulgação científica da UTFPR-PB. Participei do desenvolvimento de protótipos como **robô hexapod, cubo de LED 8x8x8, robô Otto** e uma **mesa robótica de equilíbrio de bola**, além de atividades de demonstração tecnológica para escolas.
-
-### Segurança da Informação
-
-Tenho interesse em Cyber Security e participei de um programa da **Cisco em parceria com a UTFPR**, com contato em temas como IoT, CyberOps e fundamentos de segurança da informação.
-
----
-
-
 ## 📊 Estatísticas
 
 [![Top Langs](https://github-readme-status-bice.vercel.app/api/top-langs/?username=GuilhermeRds1921\&langs_count=14\&theme=dark\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
