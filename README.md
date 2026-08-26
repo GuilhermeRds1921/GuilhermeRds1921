@@ -34,9 +34,10 @@ Criei um portfólio para organizar melhor minha trajetória, projetos, estudos e
 
 ## 📫 Onde me encontrar
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-00AEEF?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://guilhermerds1921.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/guilherme-rodrigues-b39a751a7/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/gui_.rod/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-00AEEF?style=for-the-badge&logo=githubpages&logoColor=white)](https://guilhermerds1921.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rodrigues-b39a751a7/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui_.rod/)
+[![Email](https://img.shields.io/badge/Email-guilhermerodrigues1921%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermerodrigues1921@gmail.com)
 
 ---
 
