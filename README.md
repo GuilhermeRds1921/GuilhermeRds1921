@@ -35,7 +35,7 @@ I created a portfolio to better organize and showcase my journey, projects, stud
 ## 📫 Where to Find Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00AEEF?style=for-the-badge&logo=githubpages&logoColor=white)](https://guilhermerds1921.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rodrigues-b39a751a7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rodrigues-dos-santos-b39a751a7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui_.rod/)
 [![Email](https://img.shields.io/badge/Email-guilhermerodrigues1921%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermerodrigues1921@gmail.com)
 
